@@ -36,6 +36,7 @@ int ts_fd;
 
 int sum()
 {
+	printf("hello world\n");
 	return 0;
 }
 /*获得时间间隔

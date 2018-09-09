@@ -34,7 +34,10 @@ char *sql;
 char *jtime;
 int ts_fd;
 
-
+int sum()
+{
+	return 0;
+}
 /*获得时间间隔
 参数：进入时间,
 返回: 秒数*/

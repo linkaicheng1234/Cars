@@ -36,9 +36,7 @@ int ts_fd;
 
 int sum()
 {
- HEAD
 	int c = 100;
- d3b0539f5a41ce313f4fb298ce05eccaacaace9d
 	return 0;
 }
 /*获得时间间隔

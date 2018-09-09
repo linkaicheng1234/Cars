@@ -36,6 +36,7 @@ int ts_fd;
 
 int sum()
 {
+	int c = 100;
 	return 0;
 }
 /*获得时间间隔
